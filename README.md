@@ -1,15 +1,15 @@
 ## Hi there 👋! WELCOME!
 
-Hi there 👋, I'm Gerald Cipriaso!
+**Hi there 👋, I'm Gerald Cipriaso!**
 I’m a student at Rizal Technological University, currently pursuing a Bachelor of Science in Information Technology.
 
 I'm hoping that I can improve my knowledge and skills by joining to this community!
 
-Skills:
+**Skills:**
 Web Development: HTML, CSS, JavaScript
 
 
-🌟 About Me:
+**🌟 About Me:**
 *🔭 I’m currently working on: Enhancing my skills in web and mobile development by building personal projects.
 
 *🌱 I’m currently learning: React.js and Node.js to deepen my full-stack development knowledge.
